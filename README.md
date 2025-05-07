@@ -48,7 +48,7 @@ Este repositório contém as atividades e projetos desenvolvidos ao longo da for
 
 ### **Lista dos Diretórios em Ordem:**
 
-1. [Python para Data Science: primeiros passos](xxx)
+1. [Python para Data Science: primeiros passos](https://github.com/marcoshsq/Modelagem_de_Dados_com_Python_G8-ONE/tree/main/Curso%2001%20-%20Python%20para%20Data%20Science%20primeiros%20passos)
 2. [Python para Data Science: trabalhando com funções, estruturas de dados e exceções](xxx)  
 3. [Praticando Python para Data Science: Challenge Alura Store](xxx)  
 4. [Modelagem de dados: identificando entidades, atributos, relacionamentos](xxx)  
